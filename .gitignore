@@ -1,0 +1,9 @@
+/Upload_tmp/*.pdf
+/Upload_tmp/*.zip
+/dist/Upload_tmp/*.pdf
+/dist/Upload_tmp/*.zip
+/dist/log/*.log
+/src/httpclentauth01/sino/*.bak
+/build/classes/httpclentauth01/sino/*.bak
+/log/log4j.log.1
+/Life/SDS - 複製
